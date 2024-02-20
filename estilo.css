@@ -1,0 +1,31 @@
+/* Comentário: Este é um arquivo CSS básico */
+
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para cabeçalhos h1 */
+h1 {
+    color: #007bff;
+}
+
+/* Estilos para parágrafos */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Estilos para links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
