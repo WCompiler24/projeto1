@@ -1,3 +1,4 @@
+
 // Comentário: Este é um arquivo JavaScript básico
 
 // Declaração de variáveis
