@@ -3,6 +3,7 @@
 // Declaração de variáveis
 let nome = "João";
 const idade = 25;
+const p = pagamento;
 
 // Função para exibir uma mensagem
 function exibirMensagem() {
